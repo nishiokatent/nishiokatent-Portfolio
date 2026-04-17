@@ -39,6 +39,7 @@ const cases: CaseItem[] = [
   { src: "/images/cases/shop-awning1.jpg", title: "店舗オーニング", category: "tent" },
   { src: "/images/cases/shop-awning2.jpg", title: "店舗オーニング", category: "tent" },
   { src: "/images/cases/signboard-tent.jpg", title: "看板テント", category: "tent" },
+  { src: "/images/cases/house-awning.jpg", title: "個人宅 オーニングテント", category: "tent" },
   // カーテン・横幕
   { src: "/images/cases/factory-curtain.jpg", title: "工場 間仕切り横幕", category: "curtain" },
   { src: "/images/cases/factory-clear-curtain.jpg", title: "工場 透明カーテン", category: "curtain" },
